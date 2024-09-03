@@ -14,15 +14,10 @@ function AboutCard() {
             I am currently student at Aditya Institute Of Technology And Management.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
+            
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
